@@ -1,9 +1,6 @@
 👋 Hi, I’m @PabloRodriguezRomero
 
-I'm a Civil Engineer recently interested in cloud infrastructure over the AWS environment!. I'm currently learning some CCNA courses after having my AWS Solution
-Architect-Associate certification and AWS-CCP.
-
-I'm looking to get into the AWS TechU program or an AWS Partner newgrad program either!
+I'm a Civil Engineer interested in cloud solutions over the AWS environment!. I'm currently deploying a serverless architecture to bring some cool stuff from Spotify API to everyone who might be interested!
 
 📫 How to reach me:
 
