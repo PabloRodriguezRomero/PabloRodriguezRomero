@@ -5,7 +5,7 @@ I'm a Civil Engineer interested in cloud solutions over the AWS environment!. I'
 📫 How to reach me:
 
  - pabrodrom@gmail.com
- - +34 636 693 339
+ - www.linkedin.com/in/Pablo-Rodriguez-Romero
 
 <!---
 PabloRodriguezRomero/PabloRodriguezRomero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
